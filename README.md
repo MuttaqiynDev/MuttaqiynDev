@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Assalamu alaykum, I'm Abdulazizxon!
 
-<!--
-**MuttaqiynDev/MuttaqiynDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer passionate about building practical Telegram bots and preparing to delve into Artificial Intelligence at university. My journey is about aligning technical skills with purposeful living.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
+- **Languages**: Python  
+- **Frameworks**: Aiogram  
+- **Tools**: Git, GitHub, SQLite, Terminal (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Goals:
+- Master Python and backend development  
+- Study Artificial Intelligence abroad  
+- Build meaningful and ethical tech products  
+
+> "Build with intention. Code with purpose. Live with taqwa."
+
+---
+
+### 📬 Let's Connect:
+- 📧 Email: [muttaqiyndev@gmail.com]  
+- 💬 Telegram: [Muttaqiyn_Dev](https://t.me/Muttaqiyn_Dev)
