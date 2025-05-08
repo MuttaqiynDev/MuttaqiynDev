@@ -18,4 +18,4 @@ I'm a Python developer passionate about building practical Telegram bots and pre
 
 ### 📬 Let's Connect:
 - 📧 Email: [muttaqiyndev@gmail.com]  
-- 💬 Telegram: [Muttaqiyn_Dev](https://t.me/Muttaqiyn_Dev)
+- 💬 Telegram: [MuttaqiynDev](https://t.me/MuttaqiynDev)
