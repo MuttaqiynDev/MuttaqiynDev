@@ -5,7 +5,7 @@ I'm a Python developer passionate about building practical Telegram bots and pre
 ### 🛠️ Tech Stack:
 - **Languages**: Python  
 - **Frameworks**: Aiogram  
-- **Tools**: Git, GitHub, SQLite, Terminal (basic)
+- **Tools**: Git, GitHub, SQL
 
 ### 📌 Goals:
 - Master Python and backend development  
