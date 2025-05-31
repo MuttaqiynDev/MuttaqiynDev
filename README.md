@@ -9,7 +9,7 @@ I'm a Python developer passionate about building practical Telegram bots and pre
 
 ### 📌 Goals:
 - Master Python and backend development  
-- Study Artificial Intelligence abroad  
+- Study Artificial Intelligence  
 - Build meaningful and ethical tech products  
 
 > "Build with intention. Code with purpose. Live with taqwa."
