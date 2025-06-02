@@ -17,5 +17,5 @@ I'm a Python developer passionate about building practical Telegram bots and pre
 ---
 
 ### 📬 Let's Connect:
-- 📧 Email: [muttaqiyndev@gmail.com]  
+- 📧 Email: muttaqiyndev@gmail.com 
 - 💬 Telegram: [MuttaqiynDev](https://t.me/MuttaqiynDev)
