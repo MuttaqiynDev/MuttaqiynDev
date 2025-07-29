@@ -26,7 +26,7 @@ class Developer:
         self.philosophy = "Build with intention. Code with purpose. Live with taqwa."
     
     def get_daily_routine(self):
-        return ["🌅 Fajr & Planning", "💻 Coding", "📚 Learning AI", "🤲 Reflection"]
+        return ["Planning the day", "💻 Coding", "📚 Learning AI", "🤲 Reflection"]
     
     def future_goals(self):
         return ["🎓 AI University Studies", "🚀 Impactful Tech Products", "🌍 Benefit the Ummah"]
