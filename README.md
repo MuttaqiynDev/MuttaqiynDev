@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Assalamu alaykum, I'm Abdulazizxon!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Telegram+Bot+Specialist+%F0%9F%A4%96;Aspiring+AI+Engineer+%F0%9F%A7%A0;Building+with+Purpose+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Python+Developer;Telegram+Bot+Specialist;Aspiring+AI;Building+with+Purpose+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <p align="center">
