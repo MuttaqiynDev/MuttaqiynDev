@@ -107,7 +107,7 @@ me = Developer()
 
 ## 🏆 Achievements & Goals
 
-<div align="center">
+<div align="left">
 
 ```
 🎯 2025 Goals Progress:
