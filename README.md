@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/your-github-username?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=your-MuttaqiynDev&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/MuttaqiynDev?style=social" />
   <img src="https://img.shields.io/badge/Focus-Telegram%20Bots-brightgreen" />
   <img src="https://img.shields.io/badge/Learning-AI%20%26%20ML-orange" />
 </p>
@@ -68,12 +68,12 @@ me = Developer()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuttaqiynDev&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-github-username&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuttaqiynDev&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuttaqiynDev&theme=radical" width="48%"/>
 </div>
 
 ---
@@ -142,7 +142,7 @@ me = Developer()
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muttaqiyndev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MuttaqiynDev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuttaqiynDev)
 
 ### 🌱 Open to:
 **Mentorship** • **Collaboration** • **Tech Discussions** • **AI Learning Journey**
