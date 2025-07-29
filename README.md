@@ -26,10 +26,10 @@ class Developer:
         self.philosophy = "Build with intention. Code with purpose. Live with taqwa."
     
     def get_daily_routine(self):
-        return ["Planning the day", "💻 Coding", "📚 Learning AI", "🤲 Reflection"]
+        return ["Planning the day", "Coding", "Learning new Skills", "Reflection"]
     
     def future_goals(self):
-        return ["🎓 AI University Studies", "🚀 Impactful Tech Products", "🌍 Benefit the Ummah"]
+        return ["Data Science at University", "Impactful Tech Products", "Benefit the World"]
 
 me = Developer()
 ```
@@ -48,7 +48,7 @@ me = Developer()
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/Django-336791?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🔧 Tools & Technologies  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
