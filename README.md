@@ -86,16 +86,16 @@ me = Developer()
 
 ### 🤖 Telegram Bots
 - **Smart Automation Bots** - Streamlining daily tasks
-- **Educational Bots** - Islamic knowledge & learning
-- **Business Solutions** - Custom workflow automation
+- **Educational Bots** - Books & learning
+- **Chat Bot** - Quick ai messages
 - **Community Tools** - Connecting and engaging users
 
 </td>
 <td width="50%">
 
 ### 📈 Current Projects
-- 🔄 **Advanced Bot Framework** - Scalable architecture
-- 📊 **Data Analytics Dashboard** - User insights
+- 🔄 **ExaminerAI** - AI based project
+- 📊 **Portfolio website** - User information
 - 🎓 **AI Learning Path** - University preparation
 - 🌟 **Open Source Contributions** - Community impact
 
