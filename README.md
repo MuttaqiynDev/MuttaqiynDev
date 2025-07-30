@@ -41,7 +41,7 @@ me = Developer()
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stacks
 
 <div align="center">
 
