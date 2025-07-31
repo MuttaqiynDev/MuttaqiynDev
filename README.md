@@ -19,7 +19,7 @@
 class Developer:
     def __init__(self):
         self.name = "Abdulazizxon"
-        self.role = "Python Developer & Bot Creator"
+        self.role = "Python Developer & Web Developer"
         self.location = "Uzbekistan"
         self.languages = ["Python", "SQL"]
         self.current_focus = ["Telegram Bots", "Data Science", "Backend Development"]
