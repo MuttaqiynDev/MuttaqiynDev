@@ -152,5 +152,5 @@ me = Developer()
 ---
 
 <div align="center">
-  <sub>💙 Always happy to discuss Python, AI, or how we can use technology to make the world a better place!</sub>
+  <sub>Always happy to discuss Python, AI, or how we can use technology to make the world a better place!</sub>
 </div>
