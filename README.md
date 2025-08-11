@@ -41,7 +41,7 @@ me = Developer()
 
 ---
 
-## 🛠️ Tech Stacks
+## Tech Stacks
 
 <div align="center">
 
