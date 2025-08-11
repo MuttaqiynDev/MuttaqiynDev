@@ -152,9 +152,5 @@ me = Developer()
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=جزاك%20الله%20خيرا&fontSize=28&fontColor=white&animation=twinkling"/>
-</div>
-
-<div align="center">
   <sub>💙 Always happy to discuss Python, AI, or how we can use technology to make the world a better place!</sub>
 </div>
