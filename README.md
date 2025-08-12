@@ -78,32 +78,6 @@ me = Developer()
 
 ---
 
-## 🎯 What I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Telegram Bots
-- **Smart Automation Bots** - Streamlining daily tasks
-- **Educational Bots** - Books & learning
-- **Chat Bot** - Quick ai messages
-- **Community Tools** - Connecting and engaging users
-
-</td>
-<td width="50%">
-
-### 📈 Current Projects
-- 🔄 **ExaminerAI** - AI based project
-- 📊 **Portfolio website** - User information
-- 🎓 **AI Learning Path** - University preparation
-- 🌟 **Open Source Contributions** - Community impact
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🏆 Achievements & Goals
 
