@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Assalamu alaykum, I'm Abdulazizxon!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Abdulazizxon!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Python+Developer;Telegram+Bot+Developer;Web+Developer" alt="Typing SVG" />
