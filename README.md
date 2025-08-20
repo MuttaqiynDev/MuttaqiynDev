@@ -23,7 +23,6 @@ class Developer:
         self.location = "Uzbekistan"
         self.languages = ["Python", "SQL"]
         self.current_focus = ["Telegram Bots", "Data Science", "Backend Development"]
-        self.philosophy = "Build with intention. Code with purpose. Live with taqwa."
     
     def get_daily_routine(self):
         return ["Planning the day", "Coding", "Learning new Skills", "Reflection"]
