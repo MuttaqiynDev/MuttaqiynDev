@@ -73,7 +73,7 @@ me = Developer()
 ---
 
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
 
