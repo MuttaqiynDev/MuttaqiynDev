@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-MuttaqiynDev&color=blueviolet&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/MuttaqiynDev?style=social" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Backend%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Learning-AI%20%26%20ML-orange" />
 </p>
 
